@@ -1,8 +1,7 @@
 # SeñaLearn
 # Aprende como Jugando
 
-# Tabla de contenido 
-
+Tabla de contenido 
 - Problematica
 - Proposito del proyecto
 - Tecnologias usadas
