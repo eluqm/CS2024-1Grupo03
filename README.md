@@ -14,10 +14,10 @@ La falta de conciencia y sensibilidad hacia las personas sordas conlleva a situa
 
 El propósito principal del proyecto es desarrollar una plataforma web accesible para capacitar a una amplia gama de profesionales, incluyendo profesores, médicos, y personal de atención al cliente, así como también a cualquier persona interesada en aprender esta forma de comunicación. La plataforma se diseñará con el objetivo de ofrecer una experiencia de aprendizaje inclusiva y de fácil acceso para todos los usuarios. Algunos puntos clave a considerar incluyen:
 
-1 . Accesibilidad: La plataforma debe ser accesible para personas con discapacidad auditiva, así como también para aquellos que deseen aprender el lenguaje de señas, garantizando una experiencia de usuario inclusiva.
-2. Variedad de Contenidos: Se deben ofrecer una variedad de recursos educativos, como tutoriales en vídeo, lecciones interactivas y material escrito, para adaptarse a diferentes estilos de aprendizaje.
-3. Facilidad de Uso: La plataforma debe ser intuitiva y fácil de navegar, con herramientas que faciliten el aprendizaje y la práctica del lenguaje de señas, incluso para aquellos sin experiencia previa en la materia
-4. Feedback y Mejora Continua: Se debe facilitar la retroalimentación de los usuarios para mejorar constantemente la plataforma y asegurar que cumpla con sus necesidades y expectativas.
+-  Accesibilidad: La plataforma debe ser accesible para personas con discapacidad auditiva, así como también para aquellos que deseen aprender el lenguaje de señas, garantizando una experiencia de usuario inclusiva.
+-   Variedad de Contenidos: Se deben ofrecer una variedad de recursos educativos, como tutoriales en vídeo, lecciones interactivas y material escrito, para adaptarse a diferentes estilos de aprendizaje.
+-  cilidad de Uso: La plataforma debe ser intuitiva y fácil de navegar, con herramientas que faciliten el aprendizaje y la práctica del lenguaje de señas, incluso para aquellos sin experiencia previa en la materia
+-  Feedback y Mejora Continua: Se debe facilitar la retroalimentación de los usuarios para mejorar constantemente la plataforma y asegurar que cumpla con sus necesidades y expectativas.
 
 ## Caracterizticas
 
