@@ -1,5 +1,5 @@
 # SeñaLearn
-# Aprende como Jugando
+Aprende como Jugando
 
 Tabla de contenido 
 - Problematica
@@ -20,7 +20,25 @@ El propósito principal del proyecto es desarrollar una plataforma web accesible
 -  Feedback y Mejora Continua: Se debe facilitar la retroalimentación de los usuarios para mejorar constantemente la plataforma y asegurar que cumpla con sus necesidades y expectativas.
 
 ## Caracterizticas
-
+- Lecciones por videos (Contendra lecciones diferentes como animales, colores, etc)
+- Leciones por juegos
+   - Juegos de la ruleta
+   - Charadas
+   - Adivinanzas
+- Ganar puntos por juego Ganado
+- Perder puntos por juego perdido
+- Visualización de puntuaciones
+- 
+## Tecnologias a usar
+- Postgres
+- Dbeaver
+- Python
+- Django
+- HTML
+- CSS
+- JavaScript
+## Diagramas y arquitectura
+A continuación presentamos nuestros diagramas de entidad relación de caso de usos y nuestra arquitectura
 ## Diagrama Entidad Relación.
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/4e876fc6-d4ed-4fcc-86bc-eab9100f2941)
 ## Diagrama lógico
