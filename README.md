@@ -1,7 +1,5 @@
 # SeñaLearn
 
-## sdsdsdsd
-
 # Aprende como Jugando
 
 ## sdsdsdsd
