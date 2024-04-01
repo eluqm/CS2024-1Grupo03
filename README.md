@@ -1,9 +1,8 @@
 # SeñaLearn
-
 # Aprende como Jugando
 
-## sdsdsdsd
-Tabla de contenido 
+# Tabla de contenido 
+
 - Problematica
 - Proposito del proyecto
 - Tecnologias usadas
