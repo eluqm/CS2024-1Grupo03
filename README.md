@@ -23,7 +23,7 @@ El propósito principal del proyecto es desarrollar una plataforma web accesible
 ## Caracterizticas
 - Lecciones por videos (Contendra lecciones diferentes como animales, colores, etc)
 - Lecciones por Diccionario
-- Leciones por juegos
+- Lecciones por juegos
    - Juegos de la ruleta
    - Charadas
    - Adivinanzas
