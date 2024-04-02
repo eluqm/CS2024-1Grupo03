@@ -1,5 +1,6 @@
+![INCLU SEÑAS](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/f0df12e7-30f7-426b-8b41-4f31ca54d16b)
+
 # SeñaLearn
-Aprende como Jugando
 
 Tabla de contenido 
 - Problematica
@@ -29,6 +30,10 @@ El propósito principal del proyecto es desarrollar una plataforma web accesible
 - Ganar puntos por juego Ganado
 - Perder puntos por juego perdido
 - Visualización de puntuaciones
+## Aplicaciones similares
+- IncluSeñas
+- Kitsord - Lengua de señas
+- ¡Dilo con las manos!
 ## Tecnologias a usar
 - Postgres
 - Dbeaver
@@ -46,6 +51,7 @@ A continuación presentamos nuestros diagramas de entidad relación de caso de u
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/220c0cb0-72e8-4444-8f34-710cf8e8c385)
 
 ![Construccion de software](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/aaa58715-1042-4288-99c0-1559add9a9fd)
+
 ## Diagrama de Caso de uso
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/ff879262-ef15-4cdb-818b-ba34ec04c33d)
 
