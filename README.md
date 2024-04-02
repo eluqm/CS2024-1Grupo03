@@ -56,4 +56,5 @@ A continuación presentamos nuestros diagramas de entidad relación de caso de u
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/ff879262-ef15-4cdb-818b-ba34ec04c33d)
 
 ## Arquitectura
+La siguiente arquitectura que estamos usando es la del cliente servidor ya que podremos dividir todas las funcionalidades que tenemos como lo serán el backend y el frontend todo esto para poder tener una mejor organizaciónn de nuestros archivos como vemos en la parte de cliente tenemos todo lo que será HTML, CSS, JavaScript y como navegadores google y opera mientras que por parte del servidor usaremos Docker como el contenedor Postgres como base de datos y Django como framwork y una Api Web
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/526538b9-97aa-4060-bdf9-98442d9a56f5)
