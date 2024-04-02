@@ -46,11 +46,12 @@ El propósito principal del proyecto es desarrollar una plataforma web accesible
 ## Diagramas y arquitectura
 A continuación presentamos nuestros diagramas de entidad relación de caso de usos y nuestra arquitectura
 ## Diagrama Entidad Relación.
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/4e876fc6-d4ed-4fcc-86bc-eab9100f2941)
-## Diagrama lógico
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/220c0cb0-72e8-4444-8f34-710cf8e8c385)
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/3f5f41ca-958e-4b0f-8e2b-0d450f7fb767)
 
-![Construccion de software](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/aaa58715-1042-4288-99c0-1559add9a9fd)
+## Diagrama lógico
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/5e709722-125b-4f74-bd19-30a675056b20)
+
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/0d1dc87c-ca6a-4c12-ab5a-dcfe939df304)
 
 ## Diagrama de Caso de uso
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/ff879262-ef15-4cdb-818b-ba34ec04c33d)
