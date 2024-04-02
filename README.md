@@ -21,7 +21,7 @@ El propósito principal del proyecto es desarrollar una plataforma web accesible
 -  cilidad de Uso: La plataforma debe ser intuitiva y fácil de navegar, con herramientas que faciliten el aprendizaje y la práctica del lenguaje de señas, incluso para aquellos sin experiencia previa en la materia
 -  Feedback y Mejora Continua: Se debe facilitar la retroalimentación de los usuarios para mejorar constantemente la plataforma y asegurar que cumpla con sus necesidades y expectativas.
 
-## Caracterizticas
+## Caracteristicas
 - Lecciones por videos (Contendra lecciones diferentes como animales, colores, etc)
 - Lecciones por Diccionario
 - Lecciones por juegos
@@ -47,6 +47,10 @@ El propósito principal del proyecto es desarrollar una plataforma web accesible
 ## Diagramas y arquitectura
 A continuación presentamos nuestros diagramas de entidad relación de caso de usos y nuestra arquitectura
 ## Diagrama Entidad Relación.
+Para este proyecto estamos usando una base de datos relacional, ya que nos brinda las siguientes ventajas:
+- Estructura de datos organizada
+- Integridad de los datos
+- Escalabilidad y rendimiento
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/3f5f41ca-958e-4b0f-8e2b-0d450f7fb767)
 
 ## Diagrama lógico
