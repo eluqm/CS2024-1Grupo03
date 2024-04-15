@@ -9,7 +9,7 @@ Tabla de contenido
 - Tecnologias usadas
 - Caracteristicas
 - Aplicaciones similares
-## Problematica
+## Problemática
 La falta de conciencia y sensibilidad hacia las personas sordas conlleva a situaciones de discriminación y agresión física debido a dificultades de comunicación. Es esencial promover la educación y sensibilización sobre formas de comunicación como el lenguaje de señas, lectura de labios y tecnologías de asistencia, mientras se combate estereotipos y se fomenta la inclusión laboral y educativa para garantizar igualdad de oportunidades. Un esfuerzo colectivo hacia un trato justo y equitativo es fundamental para construir una sociedad inclusiva donde todos puedan participar y prosperar.
 
 ## Proposito de proyecto
@@ -51,12 +51,12 @@ Para este proyecto estamos usando una base de datos relacional, ya que nos brind
 - Estructura de datos organizada
 - Integridad de los datos
 - Escalabilidad y rendimiento
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/3f5f41ca-958e-4b0f-8e2b-0d450f7fb767)
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/5110fbf2-c1de-4d26-a48b-947d0dc4adb9)
 
 ## Diagrama lógico
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/5e709722-125b-4f74-bd19-30a675056b20)
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/a514bcbf-677d-415d-aeb4-b0fa4634aa71)
 
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/0d1dc87c-ca6a-4c12-ab5a-dcfe939df304)
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/1b87d425-1b15-47da-9a27-e4a62dd10a25)
 
 ## Diagrama de Caso de uso
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/ff879262-ef15-4cdb-818b-ba34ec04c33d)
