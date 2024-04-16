@@ -91,7 +91,7 @@ La siguiente arquitectura que estamos usando es la del cliente servidor ya que p
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/98d5f081-eaa8-47bd-abee-909d9dd34af3)
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/a0565b19-8fad-4015-b5fc-5157d803f931)
 
-
+f
 
 
 
