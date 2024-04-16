@@ -57,7 +57,13 @@ Para este proyecto estamos usando una base de datos relacional, ya que nos brind
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/1b87d425-1b15-47da-9a27-e4a62dd10a25)
 
 ## Diagrama de Caso de uso
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/ff879262-ef15-4cdb-818b-ba34ec04c33d)
+Primer diagrama en el caso de la opción enseñame
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/0a504c0d-a0c9-431c-b283-f6f5005dc4b2)
+Segunda imagen para el caso de información
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/4bc119fc-d20e-4bde-8e15-ce68620da263)
+Tercera imagen en caso de Juego
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/cc03d022-3f29-44e3-8617-1705f126aff4)
+
 
 ## Arquitectura
 La siguiente arquitectura que estamos usando es la del cliente servidor ya que podremos dividir todas las funcionalidades que tenemos como lo serán el backend y el frontend todo esto para poder tener una mejor organizaciónn de nuestros archivos como vemos en la parte de cliente tenemos todo lo que será HTML, CSS, JavaScript y como navegadores google y opera mientras que por parte del servidor usaremos Docker como el contenedor Postgres como base de datos y Django como framwork y una Api Web
