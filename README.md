@@ -25,9 +25,7 @@ El propósito principal del proyecto es desarrollar una plataforma web accesible
 - Lecciones por videos (Contendra lecciones diferentes como animales, colores, etc)
 - Lecciones por Diccionario
 - Lecciones por juegos
-   - Juegos de la ruleta
-   - Charadas
-   - Adivinanzas
+   - Juegos de trivia de señas
 - Ganar puntos por juego Ganado
 - Perder puntos por juego perdido
 - Visualización de puntuaciones
