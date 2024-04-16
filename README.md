@@ -20,6 +20,8 @@ El propósito principal del proyecto es desarrollar una plataforma web accesible
 -   Variedad de Contenidos: Se deben ofrecer una variedad de recursos educativos, como tutoriales en vídeo, lecciones interactivas y material escrito, para adaptarse a diferentes estilos de aprendizaje.
 -  cilidad de Uso: La plataforma debe ser intuitiva y fácil de navegar, con herramientas que faciliten el aprendizaje y la práctica del lenguaje de señas, incluso para aquellos sin experiencia previa en la materia
 -  Feedback y Mejora Continua: Se debe facilitar la retroalimentación de los usuarios para mejorar constantemente la plataforma y asegurar que cumpla con sus necesidades y expectativas.
+Se adjunta de manera adicional toda la documentación necesaria, en el sigueite documento podemos encontrar los requisitos funcionales, no funcionales diagramas, etc. https://docs.google.com/document/d/1vtkJlw0SmdXi9zPXW3UvnKD2phmj4ByPPY6GJV_EvAQ/edit?usp=sharing
+
 
 ## Caracteristicas
 - Lecciones por videos (Contendra lecciones diferentes como animales, colores, etc)
