@@ -57,11 +57,11 @@ Para este proyecto estamos usando una base de datos relacional, ya que nos brind
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/1b87d425-1b15-47da-9a27-e4a62dd10a25)
 
 ## Diagrama de Caso de uso
-Primer diagrama en el caso de la opción enseñame
+- Primer diagrama en el caso de la opción enseñame
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/0a504c0d-a0c9-431c-b283-f6f5005dc4b2)
-Segunda imagen para el caso de información
+- Segunda imagen para el caso de información
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/4bc119fc-d20e-4bde-8e15-ce68620da263)
-Tercera imagen en caso de Juego
+- Tercera imagen en caso de Juego
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/cc03d022-3f29-44e3-8617-1705f126aff4)
 
 
