@@ -20,7 +20,8 @@ El propósito principal del proyecto es desarrollar una plataforma web accesible
 -   Variedad de Contenidos: Se deben ofrecer una variedad de recursos educativos, como tutoriales en vídeo, lecciones interactivas y material escrito, para adaptarse a diferentes estilos de aprendizaje.
 -  cilidad de Uso: La plataforma debe ser intuitiva y fácil de navegar, con herramientas que faciliten el aprendizaje y la práctica del lenguaje de señas, incluso para aquellos sin experiencia previa en la materia
 -  Feedback y Mejora Continua: Se debe facilitar la retroalimentación de los usuarios para mejorar constantemente la plataforma y asegurar que cumpla con sus necesidades y expectativas.
-Se adjunta de manera adicional toda la documentación necesaria, en el sigueite documento podemos encontrar los requisitos funcionales, no funcionales diagramas, etc. https://docs.google.com/document/d/1vtkJlw0SmdXi9zPXW3UvnKD2phmj4ByPPY6GJV_EvAQ/edit?usp=sharing
+Se adjunta de manera adicional toda la documentación necesaria, en el sigueite documento podemos encontrar los requisitos funcionales, no funcionales diagramas, etc.
+[Documentación SeñaLearn](https://docs.google.com/document/d/1vtkJlw0SmdXi9zPXW3UvnKD2phmj4ByPPY6GJV_EvAQ/edit?usp=sharing)
 
 
 ## Caracteristicas
@@ -56,7 +57,7 @@ Para este proyecto estamos usando una base de datos relacional, ya que nos brind
 ## Diagrama lógico
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/a514bcbf-677d-415d-aeb4-b0fa4634aa71)
 
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/1b87d425-1b15-47da-9a27-e4a62dd10a25)
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/1b87d425-1b15-47da-9a27-e4a62dd10a25).
 
 ## Diagrama de Caso de uso
 - Primer diagrama en el caso de la opción enseñame
