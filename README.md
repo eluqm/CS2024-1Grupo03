@@ -1,4 +1,5 @@
-![INCLU SEÑAS](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/f0df12e7-30f7-426b-8b41-4f31ca54d16b)
+
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/d62517ed-f96e-4dde-80a2-d527989edcc3)
 
 # SeñaLearn
 
@@ -65,6 +66,12 @@ Para este proyecto estamos usando una base de datos relacional, ya que nos brind
 - Segunda imagen para el caso de información
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/4bc119fc-d20e-4bde-8e15-ce68620da263)
 - Tercera imagen en caso de Juego
+
+
+
+
+
+
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/cc03d022-3f29-44e3-8617-1705f126aff4)
 
 
@@ -72,3 +79,21 @@ Para este proyecto estamos usando una base de datos relacional, ya que nos brind
 La siguiente arquitectura que estamos usando es la del cliente servidor ya que podremos dividir todas las funcionalidades que tenemos como lo serán el backend y el frontend todo esto para poder tener una mejor organizaciónn de nuestros archivos como vemos en la parte de cliente tenemos todo lo que será HTML, CSS, JavaScript y como navegadores google y opera mientras que por parte del servidor usaremos Docker como el contenedor Postgres como base de datos y Django como framwork y una Api Web
 
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/526538b9-97aa-4060-bdf9-98442d9a56f5)
+
+## Mockups
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/301ebbcc-839b-48cb-b5ea-ead173e4218b)
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/984fc898-9b16-4f8f-984b-d546ff808932)
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/72c2f08a-c388-418f-918f-840bd44c9006)
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/e2aa80d1-d6f0-4a4e-83fb-e6cb0249d547)
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/36c725f1-9926-47ee-b183-2335944d104e)
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/efd46d19-61e7-41d0-ba71-32bd1ae5c83e)
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/66dae848-213d-4ca3-b4c3-22e9a3d9d8a0)
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/98d5f081-eaa8-47bd-abee-909d9dd34af3)
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/a0565b19-8fad-4015-b5fc-5157d803f931)
+
+
+
+
+
+
+
