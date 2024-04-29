@@ -46,6 +46,7 @@ Se adjunta de manera adicional toda la documentación necesaria, en el sigueite 
 - CSS
 - JavaScript
 - Docker
+- Visual Studio Code
 ## Diagramas y arquitectura
 A continuación presentamos nuestros diagramas de entidad relación de caso de usos y nuestra arquitectura
 ## Diagrama Entidad Relación.
