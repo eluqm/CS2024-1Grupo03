@@ -89,12 +89,4 @@ La siguiente arquitectura que estamos usando es la del cliente servidor ya que p
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/3875405a-97a9-4706-8850-ac0fa04d35f8)
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/42bb40a1-2231-4f36-9b66-19e0bc1161c3)
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/1448bcda-5450-4c1f-805f-f15b3c23f6b3)
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/98d5f081-eaa8-47bd-abee-909d9dd34af3)
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/a0565b19-8fad-4015-b5fc-5157d803f931)
-
-f
-
-
-
-
-
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/03b119b3-4135-4ae9-b579-247228fbb1d5)
