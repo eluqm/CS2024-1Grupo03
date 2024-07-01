@@ -78,8 +78,7 @@ Para este proyecto estamos usando una base de datos relacional, ya que nos brind
 ## Arquitectura
 La siguiente arquitectura que estamos usando es la del cliente servidor ya que podremos dividir todas las funcionalidades que tenemos como lo serán el backend y el frontend todo esto para poder tener una mejor organizaciónn de nuestros archivos como vemos en la parte de cliente tenemos todo lo que será HTML, CSS, JavaScript y como navegadores google y opera mientras que por parte del servidor usaremos Docker como el contenedor Postgres como base de datos y Django como framwork y una Api Web
 
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/2793665e-978d-4631-8419-89c9ccc62934)
-
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/cc03d022-3f29-44e3-8617-1705f126aff4)
 
 
 ## Mockups
