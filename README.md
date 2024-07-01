@@ -3,13 +3,15 @@
 
 # SeñaLearn
 
-
 Tabla de contenido 
 - Problematica
 - Proposito del proyecto
 - Tecnologias usadas
 - Caracteristicas
 - Aplicaciones similares
+- Casos de uso
+- Arquitectura
+- Mouckups
 ## Problemática
 La falta de conciencia y sensibilidad hacia las personas sordas conlleva a situaciones de discriminación y agresión física debido a dificultades de comunicación. Es esencial promover la educación y sensibilización sobre formas de comunicación como el lenguaje de señas, lectura de labios y tecnologías de asistencia, mientras se combate estereotipos y se fomenta la inclusión laboral y educativa para garantizar igualdad de oportunidades. Un esfuerzo colectivo hacia un trato justo y equitativo es fundamental para construir una sociedad inclusiva donde todos puedan participar y prosperar.
 
@@ -26,13 +28,12 @@ Se adjunta de manera adicional toda la documentación necesaria, en el sigueite 
 
 
 ## Caracteristicas
-- Lecciones por videos (Contendra lecciones diferentes como animales, colores, etc)
-- Lecciones por Diccionario
+- Categorias (Contendra lecciones diferentes como animales, colores, etc)
+- Las lecciones serán por videos
 - Lecciones por juegos
    - Juegos de trivia de señas
 - Ganar puntos por juego Ganado
-- Perder puntos por juego perdido
-- Visualización de puntuaciones
+- Visualización de copas ganadas
 ## Aplicaciones similares
 - IncluSeñas
 - Kitsord - Lengua de señas
@@ -61,10 +62,11 @@ Para este proyecto estamos usando una base de datos relacional, ya que nos brind
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/1b87d425-1b15-47da-9a27-e4a62dd10a25).
 
 ## Diagrama de Caso de uso
-- Primer diagrama en el caso de la opción enseñame
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/0a504c0d-a0c9-431c-b283-f6f5005dc4b2)
-- Segunda imagen para el caso de información
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/4bc119fc-d20e-4bde-8e15-ce68620da263)
+- Primer diagrama - Caso de uso categorias
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/76c17e7d-509e-402a-b6b0-24effadf70be)
+- Segundo diagrama - Caso de uso visuzalización de información
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/b70e40b8-b8ea-43f9-bd67-37f81db71074)
+
 - Tercera imagen en caso de Juego
 
 
@@ -74,8 +76,8 @@ Para este proyecto estamos usando una base de datos relacional, ya que nos brind
 
 
 
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/c1421e10-17e5-413d-b242-c5d171c933a6)
 
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/cc03d022-3f29-44e3-8617-1705f126aff4)
 
 
 ## Arquitectura
