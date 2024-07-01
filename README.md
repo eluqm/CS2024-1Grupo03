@@ -1,4 +1,4 @@
-
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/5ffccc79-41dc-4672-bcb8-a57e406f5c17)
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/d62517ed-f96e-4dde-80a2-d527989edcc3)
 
 # SeñaLearn
@@ -78,7 +78,9 @@ Para este proyecto estamos usando una base de datos relacional, ya que nos brind
 ## Arquitectura
 La siguiente arquitectura que estamos usando es la del cliente servidor ya que podremos dividir todas las funcionalidades que tenemos como lo serán el backend y el frontend todo esto para poder tener una mejor organizaciónn de nuestros archivos como vemos en la parte de cliente tenemos todo lo que será HTML, CSS, JavaScript y como navegadores google y opera mientras que por parte del servidor usaremos Docker como el contenedor Postgres como base de datos y Django como framwork y una Api Web
 
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/526538b9-97aa-4060-bdf9-98442d9a56f5)
+![image](![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/2793665e-978d-4631-8419-89c9ccc62934))
+
+
 
 ## Mockups
 ![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/98da415d-a548-4a4c-985a-a1534a192416)
