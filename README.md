@@ -86,11 +86,21 @@ La siguiente arquitectura que estamos usando es la del cliente servidor ya que p
 
 
 ## Mockups
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/98da415d-a548-4a4c-985a-a1534a192416)
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/cd8590a7-3b7c-4a33-8833-e24fb3cabac2)
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/fdf7327a-d7bc-4ad2-a768-8990b1516a69)
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/1fe2b6ea-0d88-492d-a9af-414226ad4643)
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/3875405a-97a9-4706-8850-ac0fa04d35f8)
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/42bb40a1-2231-4f36-9b66-19e0bc1161c3)
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/1448bcda-5450-4c1f-805f-f15b3c23f6b3)
-![image](https://github.com/eluqm/CS2024-1Grupo03/assets/106353782/03b119b3-4135-4ae9-b579-247228fbb1d5)
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/9dab51ad-a776-48e6-a978-dcce32cfb5d3)
+
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/6ac090a8-9fec-4490-bd41-694d4c828b06)
+
+
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/fb5ee761-8219-4b63-8cd0-b6cf98fb8ddb)
+
+
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/f7f29b78-3e35-4832-a929-22cd69f15c1d)
+
+
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/86648b74-a8d8-4f4d-81b2-b9a860cad8e7)
+
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/e7440d61-e21f-4383-a8fe-1edb4d225133)
+
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/190ff956-bf49-46f0-8df5-49dbcd675bdf)
+
+![image](https://github.com/eluqm/CS2024-1Grupo03/assets/113551408/f6989638-8194-4793-8432-12fc88112c67)
